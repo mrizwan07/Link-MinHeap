@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\LinkMinHeap\LinkMinHeap\Stack.h(37,4): error C2065: 'cout': undeclared identifier
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\LinkMinHeap\LinkMinHeap\Stack.h(87,2): message : see reference to class template instantiation 'Stack<T>' being compiled
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\LinkMinHeap\LinkMinHeap\Stack.h(37,4): error C3861: 'cout': identifier not found
